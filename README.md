@@ -1,8 +1,8 @@
 # Six Words, One Story — "Stars and Exits"
 
-[![make.fun bounty](https://img.shields.io/badge/make.fun-bounty-blue)](https://make.fun/bounty/u-deranalabs-six-words-one-story-f982e410)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
-[![Node.js](https://img.shields.io/badge/node-%3E%3D22.18-green)](https://nodejs.org)
+[![make.fun · u-deranalabs-six-words-one-story-f982e410](https://make.fun/badge/u-deranalabs-six-words-one-story-f982e410.svg)](https://make.fun/bounty/u-deranalabs-six-words-one-story-f982e410?utm_source=github&utm_medium=readme&utm_campaign=u-deranalabs-six-words-one-story-f982e410)
+[![rank](https://make.fun/badge/u-deranalabs-six-words-one-story-f982e410/vora95/makefun-six-words-story/rank.svg)](https://make.fun/bounty/u-deranalabs-six-words-one-story-f982e410/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=u-deranalabs-six-words-one-story-f982e410)
+[![reward](https://make.fun/badge/u-deranalabs-six-words-one-story-f982e410/vora95/makefun-six-words-story/reward.svg)](https://make.fun/bounty/u-deranalabs-six-words-one-story-f982e410?utm_source=github&utm_medium=readme&utm_campaign=u-deranalabs-six-words-one-story-f982e410)
 
 Entry for the make.fun bounty [Six Words, One Story](https://make.fun/bounty/u-deranalabs-six-words-one-story-f982e410) — one complete story in exactly six words.
 
